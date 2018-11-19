@@ -2,5 +2,5 @@ name: use-hello-world2
 dependencies:
 - python=3.6.*
 - pip:
-  - --index-url https://ceddlyburge.github.io/python-package-server/
+  - --extra-index-url https://ceddlyburge.github.io/python-package-server/
   - python_hello>=0.0
